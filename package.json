@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mavj081-dot.github.io/B-Quik-Automotive/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
