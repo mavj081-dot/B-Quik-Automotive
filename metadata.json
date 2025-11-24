@@ -1,0 +1,7 @@
+{
+  "name": "B-Quik 3D Experience",
+  "description": "A high-performance automotive workshop experience featuring 3D interactions, bento grid layouts, and AI-powered business insights via Google Maps integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
